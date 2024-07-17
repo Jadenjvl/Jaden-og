@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 💬 Contact
-To contact me, visit my discord server https://discord.gg/kmoc
+To contact me @ jaden.citizens.x@gmail.com 
 
 💼 Skill set
 Full Stack software development, UI/UX designing and development, tinkering.
 
 🔠 Languages
 
-JS,Lua,djs,py,Java
+JavaScript Lua Java html css C++ python and more 
