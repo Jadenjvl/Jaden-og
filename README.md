@@ -8,4 +8,4 @@ Full Stack software development, UI/UX designing and development, tinkering.
 
 🔠 Languages
 
-[My Skills](https://skillicons.dev/icons?i=js,html,css,djs,cpp,Java,js,lua)](https://skillicons.dev)
+[My Skills](https://skillicons.dev/icons?i=js,html,css,djs,cpp,Java,js,lua)
