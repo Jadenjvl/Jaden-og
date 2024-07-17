@@ -8,3 +8,4 @@ Full Stack software development, UI/UX designing and development, tinkering.
 
 🔠 Languages
 
+JS,Lua,djs,py,Java
