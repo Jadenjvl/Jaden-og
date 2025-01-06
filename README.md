@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 💬 Contact
-To contact me @ jaden.citizens.x@gmail.com 
+To contact me @ jaden@jvlshop.com
 
 💼 Skill set
 Full Stack software development, UI/UX designing and development, tinkering.
